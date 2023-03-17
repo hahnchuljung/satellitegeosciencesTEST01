@@ -5,7 +5,7 @@
 
 widget: hero # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
-weight: 10 # Order that this section will appear.
+weight: 20 # Order that this section will appear.
 # title: |
 # Satellite Geosciences Lab  
 # @ Yonsei University
@@ -22,4 +22,4 @@ weight: 10 # Order that this section will appear.
 
 About us
 
-This is the webpage of the **Satellite Geosciences Research Group at the Department of Earth System Sciences, Yonsei University**. The group is led by Hahn Chul Jung, and the research that we do focuses on the intersection of water resources modeling, remote sensing and in-situ observations, data fusion, and the study of large-scale hydrology as it relates to climate change and environmental monitorin
+This is the webpage of the **Satellite Geosciences Research Group at the Department of Earth System Sciences, Yonsei University**. The research interest lies in the intersection of water resources modeling, remote sensing and in-situ observations, data fusion, and the study of large-scale hydrology as it relates to climate change and environmental monitorin
