@@ -20,4 +20,8 @@ design:
 
 <br>
 
-The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+About us
+
+**Satellite Geosciences Lab at Yonsei University**
+
+This is the webpage of the Satellite Geosciences Research Group in Earth System Sciences department at Yonsei University. The group is led by Hahn Chul Jung, and the research that we do focuses on the intersection of water resources modeling, remote sensing and in-situ observations, data fusion, and the study of large-scale hydrology as it relates to climate change and environmental monitorin
