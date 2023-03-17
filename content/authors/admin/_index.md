@@ -25,7 +25,7 @@ education:
   courses:
     - course: PhD in Satellite Hydrology
       institution: The Ohio State University
-      year: 2012
+      year: 2011
     - course: MSc in Remote Sensing & Geophysics
       institution: Yonsei University
       year: 2003
@@ -53,8 +53,8 @@ social:
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
- - icon: cv
-   icon_pack: ai
+# - icon: cv
+#   icon_pack: ai
 #   link: static/files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
