@@ -8,6 +8,7 @@ headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
 title: |
 hero_media: welcome.jpg
+<img align="left" width="100" height="100" >
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
@@ -18,6 +19,6 @@ design:
 
 <br>
 
-<font size='20'>About us</font>
+<font size='5'>About us</font>
 
-<font size='10'>This is the webpage of the **Satellite Geosciences Research Group at the Department of Earth System Sciences, Yonsei University**. The research interest lies in the intersection of water resources modeling, remote sensing and in-situ observations, data fusion, and the study of large-scale hydrology as it relates to climate change and environmental monitoring.</font>
+<font size='5'>This is the webpage of the **Satellite Geosciences Research Group at the Department of Earth System Sciences, Yonsei University**. The research interest lies in the intersection of water resources modeling, remote sensing and in-situ observations, data fusion, and the study of large-scale hydrology as it relates to climate change and environmental monitoring.</font>
