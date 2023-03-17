@@ -18,6 +18,6 @@ design:
 
 <br>
 
-About us
+<font size='20'>About us</font>
 
-This is the webpage of the **Satellite Geosciences Research Group at the Department of Earth System Sciences, Yonsei University**. The research interest lies in the intersection of water resources modeling, remote sensing and in-situ observations, data fusion, and the study of large-scale hydrology as it relates to climate change and environmental monitorin
+<font size='10'>This is the webpage of the **Satellite Geosciences Research Group at the Department of Earth System Sciences, Yonsei University**. The research interest lies in the intersection of water resources modeling, remote sensing and in-situ observations, data fusion, and the study of large-scale hydrology as it relates to climate change and environmental monitoring.</font>
