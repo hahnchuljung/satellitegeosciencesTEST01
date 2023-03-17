@@ -4,6 +4,7 @@
 # Add more sections by duplicating this file and customizing to your requirements.
 
 
+
 widget: hero # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
@@ -16,7 +17,7 @@ weight: 10 # Order that this section will appear.
   columns: '1'
   # Add custom styles
   css_style:
-#  css_class:
+  css_class:
 ---
 
 <br>
