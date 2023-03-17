@@ -11,11 +11,9 @@ hero_media: welcome.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
-  spacing:
-    padding: ['20px', '0', '20px', '0']
   # Add custom styles
   css_style:
-  css_class: fullscreen
+  css_class: 
 ---
 
 <br>
